@@ -27,3 +27,7 @@ replay_pid*
 .kotlin/
 
 .idea
+
+# Advent of Code input files
+input
+**/input
